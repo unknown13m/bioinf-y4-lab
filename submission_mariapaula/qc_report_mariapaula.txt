@@ -1,0 +1,6 @@
+QC report
+FASTQ: your_reads.fastq
+Număr citiri: 2
+Lungime medie: 20.00 baze
+Proporție N: 0.0000
+Scor Phred mediu: 40.00
