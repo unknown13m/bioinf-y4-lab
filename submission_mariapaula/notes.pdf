@@ -1,0 +1,8 @@
+QC este important înainte de variant calling pt ca permite verificarea calitatii secventelor brute. 
+Daca exista probleme cum ar fi citiri foarte scurte, dimensiuni mari de N sau scoruri Phred mici, rezultatele pot fi gresite. 
+QC ajuta la depistarea artefactelor tehnice si la evitarea interpretarii gresite a variantelor. 
+De asta, analiza ulterioara este mai robusta si mai fiabila.
+
+Cautarile PubMed pentru variante au fost formulate în functie de informatiile din VCF. 
+Pentru variante cu ID (ex. rsID), am cautat direct „rsXXXX”. 
+Pentru variante fara ID, am folosit structura „chr<chrom>:<pos> AND TP53” pentru a gasi articole relevante despre mutatia respectiva.
