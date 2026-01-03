@@ -1,0 +1,11 @@
+sequence,phylo_root_clade,kmeans_best_k_2,hierarchical,dbscan
+seq01_clusterA,0,0,1,0
+seq02_clusterA,0,0,1,0
+seq03_clusterA,0,0,1,0
+seq04_clusterA,0,0,1,0
+seq05_clusterA,0,0,1,0
+seq06_clusterB,1,1,0,0
+seq07_clusterB,0,1,0,0
+seq08_clusterB,0,1,0,0
+seq09_clusterB,0,1,0,0
+seq10_clusterB,-1,1,0,0
