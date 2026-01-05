@@ -42,3 +42,6 @@ ca si interpretare biologică (la nivel de lab), cele mai importante “gene” 
 Doar ca aici, deoarece datele sunt de demo și dataset-ul este mic, interpretarea biologică trebuie tratată doar ca exemplu tocmai din cauza datelor putine.
 
 Am avut si limitări de genul nr mic de probe (si asta mi-a cam dat rezultate instabile), un posibil bias din modul de generare a datelor sau din distribuții si imi lipseste variabilitatea biologică (tocmai fiindca am un dataset demo).
+
+La partea de bonus cu PCA si filtrare după varianță, după eliminarea a 10 gene cu varianță scăzută, proiecția PCA are o separare putin mai clară intre probe si filtrarea reduce zgomotul care venea din feature-uri neinformative.
+Doar ca datorită dimensiunii mici a dataset-ului, efectul este moderat.
