@@ -1,0 +1,3 @@
+Accuracy RF: 0.000
+Accuracy LogReg: 0.667
+Note: LogReg is linear + needs scaling; RF is non-linear and handles feature interactions.

@@ -1,0 +1,5 @@
+Semi-supervised (pseudo-labeling) with 40% unknown labels
+Accuracy RF supervised: 0.000
+Accuracy RF pseudo-labeled: 1.000
+If pseudo-labels are noisy, performance can drop. If structure is strong, it can improve.
+Pseudo-labeling helps when labeled data is scarce.
