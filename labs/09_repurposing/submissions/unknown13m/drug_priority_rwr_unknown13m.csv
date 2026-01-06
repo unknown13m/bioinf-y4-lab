@@ -1,0 +1,8 @@
+drug,rwr_score
+Nutlin-3,0.1666666666715173
+Doxorubicin,0.05555555555717243
+Cisplatin,0.05555555555717243
+Etoposide,0.05555555555717243
+PARP_inhibitor,0.0
+# Week 9 drug–gene lab,0.0
+# We’re not shipping proprietary drug DB content; this is a didactic seed list. Students replace/extend with DGIdb/DrugBank exports and proper citations.,0.0

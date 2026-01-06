@@ -1,0 +1,8 @@
+drug,proximity_mean_distance,targets,rwr_score
+# Week 9 drug–gene lab,,,0.0
+# We’re not shipping proprietary drug DB content; this is a didactic seed list. Students replace/extend with DGIdb/DrugBank exports and proper citations.,,,0.0
+Cisplatin,799.4,TP53,0.05555555555717243
+Doxorubicin,799.4,TP53,0.05555555555717243
+Etoposide,799.4,TP53,0.05555555555717243
+Nutlin-3,799.4,MDM2,0.1666666666715173
+PARP_inhibitor,999.0,BRCA1,0.0
