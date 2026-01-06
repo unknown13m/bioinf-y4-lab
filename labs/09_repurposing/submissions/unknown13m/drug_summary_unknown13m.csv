@@ -1,0 +1,6 @@
+drug,n_targets,targets
+Cisplatin,1,TP53
+Doxorubicin,1,TP53
+Etoposide,1,TP53
+Nutlin-3,1,MDM2
+PARP_inhibitor,1,BRCA1

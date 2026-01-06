@@ -1,0 +1,11 @@
+drug1,drug2,jaccard
+Cisplatin,Doxorubicin,1.0
+Cisplatin,Etoposide,1.0
+Doxorubicin,Etoposide,1.0
+Cisplatin,Nutlin-3,0.0
+Cisplatin,PARP_inhibitor,0.0
+Doxorubicin,Nutlin-3,0.0
+Doxorubicin,PARP_inhibitor,0.0
+Etoposide,Nutlin-3,0.0
+Etoposide,PARP_inhibitor,0.0
+Nutlin-3,PARP_inhibitor,0.0

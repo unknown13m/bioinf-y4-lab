@@ -1,0 +1,6 @@
+drug,mean_distance,targets
+Cisplatin,799.4,TP53
+Doxorubicin,799.4,TP53
+Etoposide,799.4,TP53
+Nutlin-3,799.4,MDM2
+PARP_inhibitor,999.0,BRCA1
