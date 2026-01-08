@@ -1,7 +1,10 @@
 Lab 08: Machine Learning pe date omice
 
 1. INTRODUCERE
+<<<<<<< Updated upstream
    
+=======
+>>>>>>> Stashed changes
 Am folosit un set de date de tip “expression matrix” cu etichete (Condition) si variabile (gene/features).
 Am facut:
 1.clasificare supervised (Random Forest),
