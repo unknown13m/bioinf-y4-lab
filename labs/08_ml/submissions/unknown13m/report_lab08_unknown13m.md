@@ -19,7 +19,7 @@ La partea de supervised ML, Random Forest,  am antrenat un RandomForestClassifie
 -`confusion_rf_unknown13m.png`
 -`feature_importance_unknown13m.csv`
 
-Am vazut ca la confusion matrix arată unde modelul greseste intre clase si ca la feature importances imi da un top al genelor cu impact mai mare in decizie.
+Am vazut ca la confusion matrix arata unde modelul greseste intre clase si ca la feature importances imi da un top al genelor cu impact mai mare in decizie.
 
 La logistic regression am rulat si logistic regression cu scaling (StandardScaler) si am comparat cu RF, iar rezultatele sunt in `compare_rf_vs_logreg_unknown13m.txt`.
 
