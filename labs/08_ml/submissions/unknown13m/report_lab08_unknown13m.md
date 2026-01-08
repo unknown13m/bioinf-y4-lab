@@ -7,7 +7,7 @@ Am facut:
 2.explorare unsupervised (PCA + KMeans) si
 un pseudo-labeling de tipul semi-supervised.
 
-datele mele sunt in:`expression_matrix_unknown13m.csv`  
+Datele mele sunt in:`expression_matrix_unknown13m.csv`  
 -y (label): `Condition`
 -X (features): Gene001…Gene050 (aici am valori numerice)
 
